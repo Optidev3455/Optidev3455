@@ -1,16 +1,31 @@
-### Hi there 👋
+### A Repository Account
+#### No Relevant Content Expected
 
-<!--
-**Optidev3455/Optidev3455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+<details>
+  <summary>Language Mainly Used In This Repository</summary>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- C++
+- C#
+- Sass
+- JavaScript
+    - 3js
+    - jquery
+  </details>
+
+***
+
+<details>
+  <summary>IDEs Used</summary>
+
+
+- Visual Studio Code
+- Visual Studio 2022
+- Eclipse
+- Notepad++
+</details>
+
+#### Repositories mainly focuses on .NET Framework Applications, Websites and Addons for Games.
