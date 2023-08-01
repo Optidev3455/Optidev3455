@@ -28,4 +28,13 @@
 - Notepad++
 </details>
 
+***
+#### Release Notes Style
+```diff
++ Added Something
+- Removed Something
+= Changed Something
+@@ Checksum SHA-1 SHA-256 MD5 @@
+```
+
 #### Repositories mainly focuses on .NET Framework Applications, Websites and Addons for Games.
