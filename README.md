@@ -6,14 +6,19 @@
   <summary>Language Mainly Used In This Repository</summary>
 
 
-- HTML
-- CSS
+
+- C
 - C++
 - C#
-- Sass
+- Java
+- Python
+- HTML
+  - CSS
+  - SASS
+  - SCSS
 - JavaScript
-    - 3js
-    - jquery
+    - Three.js
+    - jQuery
   </details>
 
 ***
@@ -24,6 +29,8 @@
 
 - Visual Studio Code
 - Visual Studio 2022
+- IntelliJ Idea Ultimate
+- Pycharm
 - Eclipse
 - Notepad++
 </details>
@@ -34,7 +41,7 @@
 + Added Something
 - Removed Something
 = Changed Something
-@@ Checksum SHA-1 SHA-256 MD5 @@
+@@ Checksum SHA-256 @@
 ```
 
-#### Repositories mainly focuses on .NET Framework Applications, Websites and Addons for Games.
+#### Repositories mainly focuses on .NET Framework Applications, Java Applications, Python Applications, Websites and Addons for Games.
