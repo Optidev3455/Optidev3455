@@ -1,9 +1,9 @@
 ### A Repository Account
-#### Now used for YCHWWSSS 2023-2024 Computer Club <br> Formerly used for CPII Group 4
+#### Now used for YCHWWSSS 2023-2024 Computer Club <br> Formerly used for Group 4 in the CPII Internship
 
 ***
 <details>
-  <summary>Language Mainly Used In This Repository</summary>
+  <summary>Languages Mainly Used In This Repository</summary>
 
 
 
@@ -15,7 +15,7 @@
 - HTML
   - CSS
   - SASS
-  - SCSS
+  - Bootstrap
 - JavaScript
     - Three.js
     - jQuery
@@ -24,7 +24,7 @@
 ***
 
 <details>
-  <summary>IDEs Used</summary>
+  <summary>IDEs I use</summary>
 
 
 - Visual Studio Code
@@ -32,7 +32,6 @@
 - IntelliJ Idea Ultimate
 - Pycharm
 - Eclipse
-- Notepad++
 </details>
 
 ***
