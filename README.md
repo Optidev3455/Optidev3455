@@ -1,7 +1,6 @@
 ### A Repository Account
 #### Now used for YCHWWSSS 2023-2024 Computer Club <br> Formerly used for Group 4 in the CPII Internship
 
-***
 <details>
   <summary>Languages Mainly Used In This Repository</summary>
 
@@ -21,7 +20,6 @@
     - jQuery
   </details>
 
-***
 
 <details>
   <summary>IDEs I use</summary>
@@ -34,7 +32,6 @@
 - Eclipse
 </details>
 
-***
 #### Release Notes Style
 ```diff
 + Added Something
@@ -44,3 +41,4 @@
 ```
 
 #### Repositories mainly focuses on .NET Framework Applications, Java Applications, Python Applications, Websites and Addons for Games.
+#### Latest Project: [Website](https://github.com/Optidev3455/Optidev3455.github.io)
