@@ -1,21 +1,21 @@
-### A Repository Account
-#### Now used for YCHWWSSS 2023-2024 Computer Club <br> Formerly used for Group 4 in the CPII Internship
+## Hello, I'm Optidev3455, a student programmer and a computer enthusiast.
+### My repositories contains some small projects I've done in the past.
 
 <details>
   <summary>Have experience with</summary>
 
 
 
-- C (2 years)
-- C++ (16 months)
-- C# (1 year)
-- Java (5 years)
-- Python (11 months)
-- HTML (14 months)
+- C (Since 2020)
+- C++ (Since 2021)
+- C# (Since 2021)
+- Java (Since 2017)
+- Python (Since 2022)
+- HTML (Since 2021)
   - CSS
   - SASS
   - Bootstrap
-- JavaScript (1 year)
+- JavaScript (Since 2022)
     - Three.js
     - jQuery
     - React
@@ -56,7 +56,3 @@ Release Notes Style
 ! Patched Something
 @@ Checksum SHA-256 @@
 ```
-
-Repositories mainly focuses on .NET Framework Applications, Java Applications, Python Applications, Websites and Addons for Games.
-<br>
-Latest Project: [Website](https://github.com/Optidev3455/Optidev3455.github.io)
