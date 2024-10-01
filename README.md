@@ -6,20 +6,19 @@
 
 
 
-- C (Since 2020)
-- C++ (Since 2021)
-- C# (Since 2021)
-- Java (Since 2017)
-- Python (Since 2022)
-- HTML (Since 2021)
+- C
+- C++
+- C#
+- Java
+- Python
+- HTML
   - CSS
   - SASS
   - Bootstrap
-- JavaScript (Since 2022)
+- JavaScript
     - Three.js
     - jQuery
     - React
-    - Node.js
   </details>
 
 
@@ -42,10 +41,7 @@
 - Vim
 - Nano
 - Notepad++
-- Git
 - Microsoft SQL Server Express
-- .NET Framework
-- npm
 </details>
 
 Release Notes Style
