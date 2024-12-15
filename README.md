@@ -19,6 +19,8 @@
     - Three.js
     - jQuery
     - React
+    - Electron
+- TypeScript
   </details>
 
 
